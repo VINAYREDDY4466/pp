@@ -33,7 +33,7 @@ const Tutorial = () => {
           className="target"
           onClick={handleNextStep}
         >
-          Hello world Next
+          Hello world Next World
         </motion.button>
       )}
 
